@@ -1,0 +1,13 @@
+transformer_ID,from_bus_ID,to_bus_ID,rate
+Trf 02 - 30, Bus 02, Bus 30, 1000.0 
+Trf 06 - 31, Bus 06, Bus 31, 700.0 
+Trf 10 - 32, Bus 10, Bus 32, 800.0 
+Trf 11 - 12, Bus 11, Bus 12, 300.0 
+Trf 13 - 12, Bus 13, Bus 12, 300.0 
+Trf 19 - 20, Bus 19, Bus 20, 1000.0 
+Trf 19 - 33, Bus 19, Bus 33, 800.0 
+Trf 20 - 34, Bus 20, Bus 34, 600.0 
+Trf 22 - 35, Bus 22, Bus 35, 800.0 
+Trf 23 - 36, Bus 23, Bus 36, 700.0 
+Trf 25 - 37, Bus 25, Bus 37, 700.0 
+Trf 29 - 38, Bus 29, Bus 38, 1000.0 
